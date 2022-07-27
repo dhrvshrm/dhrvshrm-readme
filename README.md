@@ -5,5 +5,7 @@ An aspiring engineering student who is willing to learn and explore new opportun
 ![Visitor Count](https://profile-counter.glitch.me/{dhrvshrm}/count.svg)
 
 🔭 I’m currently working on projects based on Blockchain and Web Development.
+
 🌱 I’m currently learning Web3.js and Reactjs.
+
 💬 Ask me about Full Stack Web Development, Blockchain & DSA, I would behappy to help.
