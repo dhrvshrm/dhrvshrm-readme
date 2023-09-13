@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-An aspiring engineering student who is willing to learn and explore new opportunities in IT. Skilled in Full Stack Development, C (Programming Language), Java (Programming Language), and problem-solving, and have a major interest in Blockchain and its application. Strong education professional with the degree of Bachelors of Technology in Computer Science from ICFAI University, Jaipur.
+An aspiring engineering student who is willing to learn and explore new opportunities in IT. Skilled in Front-end Development, Java (Programming Language) - problem-solving, and currently associated with Team Geek Solutions, Pune as a Software Developer.
+
+Strong education professional with the degree of Bachelors of Technology in Computer Science & Engineering from ICFAI University, Jaipur.
 
 ![Visitor Count](https://profile-counter.glitch.me/{dhrvshrm}/count.svg)
 
