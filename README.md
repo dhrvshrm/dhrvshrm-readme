@@ -8,6 +8,4 @@ Strong education professional with the degree of Bachelors of Technology in Comp
 
 🔭 I’m currently working on projects based on Blockchain and Web Development.
 
-🌱 I’m currently learning Web3.js and Reactjs.
-
 💬 Ask me about Full Stack Web Development, Blockchain & DSA, I would behappy to help.
