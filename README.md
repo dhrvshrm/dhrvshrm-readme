@@ -1,11 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Dhruv Sharma! 👋
 
-An aspiring engineering student who is willing to learn and explore new opportunities in IT. Skilled in Front-end Development, Java (Programming Language) - problem-solving, and currently associated with Team Geek Solutions, Pune as a Software Developer.
+## About Me
+I'm Dhruv, a Software Developer who loves writing code and playing football. With a degree in Computer Science, I enjoy solving problems and learning new things.
 
-Strong education professional with the degree of Bachelors of Technology in Computer Science & Engineering from ICFAI University, Jaipur.
+## Skills
+- **Languages:** JavaScript, Java, Python, TS
+- **Tools:** React, Next.js, Redux, Material-UI
+- **Cloud Services:** AWS (Lambda, API Gateway, EC2, RDS, Cloudfront, Route53)
+- **Databases:** MongoDB
 
-![Visitor Count](https://profile-counter.glitch.me/{dhrvshrm}/count.svg)
+## Projects
+- **Food Delivery Website:**  
+  Created a website for ordering food online. Users can find nearby restaurants, filter options, and pay securely.
 
-🔭 I’m currently working on projects based on Blockchain and Web Development.
+- **Social Media Website:**  
+  Built a platform where users can share posts, comment, and connect with others. 
 
-💬 Ask me about Full Stack Web Development, Blockchain & DSA, I would behappy to help.
+- **WatchWave:**  
+  Developed a real-time video streaming app for watching videos with friends.
+
+## Interests
+When I'm not coding, I love playing football, reading, and capturing photos.
+
+## Let's Connect!
+Feel free to email me at shrmadhruv11@gmail.com.
